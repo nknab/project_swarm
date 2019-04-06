@@ -1,0 +1,8 @@
+prefix=/home/nknab/Development/rws/src/project_swarm/build/devel
+
+Name: project_swarm
+Description: Description of project_swarm
+Version: 1.0.0
+Cflags: 
+Libs: -L/home/nknab/Development/rws/src/project_swarm/build/devel/lib 
+Requires: 
