@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<!-- 
+File: swarm.launch
+Project: Project Swarm PX4
+File Created: Tuesday, 19h February 2019 1:16:23 PM
+Author: nknab
+Email: bkojo21@gmail.com
+Version: 1.0
+Brief: 
+- - - - -
+Last Modified: Wednesday, 20th February 2019 6:12:29 PM
+Modified By: nknab
+- - - - -
+Copyright ©2019 nknab
+ -->
+
+<launch>
+    <!-- PS1 -->
+    <group ns="ps1">
+        <!-- controller name, package name, the name of the executable, for print out bugs -->
+        <!-- <node name="controller" pkg="project_swarm" type="PX4_node" output="screen" /> -->
+    </group>
+    <!-- PS2 -->
+    <group ns="ps2">
+        <!-- <node name="controller" pkg="project_swarm" type="PX4_node" output="screen" /> -->
+    </group>
+
+    <!-- PS3 -->
+    <group ns="ps3">
+        <!-- <node name="controller" pkg="project_swarm" type="PX4_node" output="screen" /> -->
+    </group>
+
+    <include file="$(find px4)/launch/multi_uav_mavros_sitl.launch" />
+</launch>
+
