@@ -1,0 +1,25 @@
+make px4_sitl_default
+make px4_sitl_default sitl_gazebo
+roslaunch px4 multi_uav_mavros_sitl.launch
+
+roslaunch project_swarm swarm.launch 
+
+rosrun project_swarm PX4_node src/project_swarm/src/PX4/main.cpp
+
+rosnode kill -a
+
+Log2plot
+TakeOFF
+ - Arm Drone
+ - Set Mode
+
+ 
+ARM/SET = true
+
+Continuous sending set points for Take off (20.Hz)
+Immediately after Take off returns TRUE start sending pose cmds.
+
+Error Checking 
+in Every single while loop 
+ros::spinOnce();
+r.sleep();
