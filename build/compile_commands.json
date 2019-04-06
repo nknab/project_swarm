@@ -1,0 +1,91 @@
+[
+{
+  "directory": "/home/nknab/Development/rws/src/project_swarm/build",
+  "command": "/usr/bin/clang++-6.0  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_PACKAGE_NAME=\\\"project_swarm\\\" -I../include -I/home/nknab/Development/rws/devel/include -I/home/nknab/Development/rws/devel/.private/mavros_msgs/include -I/home/nknab/Development/rws/src/mavros/libmavconn/include -I/home/nknab/Development/rws/src/mavros/mavros_msgs/include -I/home/nknab/Development/rws/src/mavros/mavros/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -I/opt/ros/melodic/share/orocos_kdl/cmake/../../../include -isystem /usr/include/opencv -I/usr/include/eigen3  -g   -o CMakeFiles/Bebop_node.dir/src/Bebop/main.cpp.o -c /home/nknab/Development/rws/src/project_swarm/src/Bebop/main.cpp",
+  "file": "/home/nknab/Development/rws/src/project_swarm/src/Bebop/main.cpp"
+},
+
+{
+  "directory": "/home/nknab/Development/rws/src/project_swarm/build",
+  "command": "/usr/bin/clang++-6.0  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_PACKAGE_NAME=\\\"project_swarm\\\" -I../include -I/home/nknab/Development/rws/devel/include -I/home/nknab/Development/rws/devel/.private/mavros_msgs/include -I/home/nknab/Development/rws/src/mavros/libmavconn/include -I/home/nknab/Development/rws/src/mavros/mavros_msgs/include -I/home/nknab/Development/rws/src/mavros/mavros/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -I/opt/ros/melodic/share/orocos_kdl/cmake/../../../include -isystem /usr/include/opencv -I/usr/include/eigen3  -g   -o CMakeFiles/Bebop_node.dir/src/Bebop/TrackObject/TrackObject.cpp.o -c /home/nknab/Development/rws/src/project_swarm/src/Bebop/TrackObject/TrackObject.cpp",
+  "file": "/home/nknab/Development/rws/src/project_swarm/src/Bebop/TrackObject/TrackObject.cpp"
+},
+
+{
+  "directory": "/home/nknab/Development/rws/src/project_swarm/build",
+  "command": "/usr/bin/clang++-6.0  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_PACKAGE_NAME=\\\"project_swarm\\\" -I../include -I/home/nknab/Development/rws/devel/include -I/home/nknab/Development/rws/devel/.private/mavros_msgs/include -I/home/nknab/Development/rws/src/mavros/libmavconn/include -I/home/nknab/Development/rws/src/mavros/mavros_msgs/include -I/home/nknab/Development/rws/src/mavros/mavros/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -I/opt/ros/melodic/share/orocos_kdl/cmake/../../../include -isystem /usr/include/opencv -I/usr/include/eigen3  -g   -o CMakeFiles/Bebop_node.dir/src/Bebop/Movement/Movement.cpp.o -c /home/nknab/Development/rws/src/project_swarm/src/Bebop/Movement/Movement.cpp",
+  "file": "/home/nknab/Development/rws/src/project_swarm/src/Bebop/Movement/Movement.cpp"
+},
+
+{
+  "directory": "/home/nknab/Development/rws/src/project_swarm/build",
+  "command": "/usr/bin/clang++-6.0  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_PACKAGE_NAME=\\\"project_swarm\\\" -I../include -I/home/nknab/Development/rws/devel/include -I/home/nknab/Development/rws/devel/.private/mavros_msgs/include -I/home/nknab/Development/rws/src/mavros/libmavconn/include -I/home/nknab/Development/rws/src/mavros/mavros_msgs/include -I/home/nknab/Development/rws/src/mavros/mavros/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -I/opt/ros/melodic/share/orocos_kdl/cmake/../../../include -isystem /usr/include/opencv -I/usr/include/eigen3  -g   -o CMakeFiles/Bebop_node.dir/src/Bebop/FeedbackControl/FeedbackControl.cpp.o -c /home/nknab/Development/rws/src/project_swarm/src/Bebop/FeedbackControl/FeedbackControl.cpp",
+  "file": "/home/nknab/Development/rws/src/project_swarm/src/Bebop/FeedbackControl/FeedbackControl.cpp"
+},
+
+{
+  "directory": "/home/nknab/Development/rws/src/project_swarm/build",
+  "command": "/usr/bin/clang++-6.0  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_PACKAGE_NAME=\\\"project_swarm\\\" -I../include -I/home/nknab/Development/rws/devel/include -I/home/nknab/Development/rws/devel/.private/mavros_msgs/include -I/home/nknab/Development/rws/src/mavros/libmavconn/include -I/home/nknab/Development/rws/src/mavros/mavros_msgs/include -I/home/nknab/Development/rws/src/mavros/mavros/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -I/opt/ros/melodic/share/orocos_kdl/cmake/../../../include -isystem /usr/include/opencv -I/usr/include/eigen3  -g   -o CMakeFiles/PX4_node.dir/src/PX4/main.cpp.o -c /home/nknab/Development/rws/src/project_swarm/src/PX4/main.cpp",
+  "file": "/home/nknab/Development/rws/src/project_swarm/src/PX4/main.cpp"
+},
+
+{
+  "directory": "/home/nknab/Development/rws/src/project_swarm/build",
+  "command": "/usr/bin/clang++-6.0  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_PACKAGE_NAME=\\\"project_swarm\\\" -I../include -I/home/nknab/Development/rws/devel/include -I/home/nknab/Development/rws/devel/.private/mavros_msgs/include -I/home/nknab/Development/rws/src/mavros/libmavconn/include -I/home/nknab/Development/rws/src/mavros/mavros_msgs/include -I/home/nknab/Development/rws/src/mavros/mavros/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -I/opt/ros/melodic/share/orocos_kdl/cmake/../../../include -isystem /usr/include/opencv -I/usr/include/eigen3  -g   -o CMakeFiles/PX4_node.dir/src/PX4/Movement/Movement.cpp.o -c /home/nknab/Development/rws/src/project_swarm/src/PX4/Movement/Movement.cpp",
+  "file": "/home/nknab/Development/rws/src/project_swarm/src/PX4/Movement/Movement.cpp"
+},
+
+{
+  "directory": "/home/nknab/Development/rws/src/project_swarm/build",
+  "command": "/usr/bin/clang++-6.0  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_PACKAGE_NAME=\\\"project_swarm\\\" -I../include -I/home/nknab/Development/rws/devel/include -I/home/nknab/Development/rws/devel/.private/mavros_msgs/include -I/home/nknab/Development/rws/src/mavros/libmavconn/include -I/home/nknab/Development/rws/src/mavros/mavros_msgs/include -I/home/nknab/Development/rws/src/mavros/mavros/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -I/opt/ros/melodic/share/orocos_kdl/cmake/../../../include -isystem /usr/include/opencv -I/usr/include/eigen3  -g   -o CMakeFiles/PX4_node.dir/src/PX4/Tracking/Tracking.cpp.o -c /home/nknab/Development/rws/src/project_swarm/src/PX4/Tracking/Tracking.cpp",
+  "file": "/home/nknab/Development/rws/src/project_swarm/src/PX4/Tracking/Tracking.cpp"
+},
+
+{
+  "directory": "/home/nknab/Development/rws/src/project_swarm/build",
+  "command": "/usr/bin/clang++-6.0  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_PACKAGE_NAME=\\\"project_swarm\\\" -I../include -I/home/nknab/Development/rws/devel/include -I/home/nknab/Development/rws/devel/.private/mavros_msgs/include -I/home/nknab/Development/rws/src/mavros/libmavconn/include -I/home/nknab/Development/rws/src/mavros/mavros_msgs/include -I/home/nknab/Development/rws/src/mavros/mavros/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -I/opt/ros/melodic/share/orocos_kdl/cmake/../../../include -isystem /usr/include/opencv -I/usr/include/eigen3  -g   -o CMakeFiles/PX4_node.dir/src/PX4/FeedbackControl/FeedbackControl.cpp.o -c /home/nknab/Development/rws/src/project_swarm/src/PX4/FeedbackControl/FeedbackControl.cpp",
+  "file": "/home/nknab/Development/rws/src/project_swarm/src/PX4/FeedbackControl/FeedbackControl.cpp"
+},
+
+{
+  "directory": "/home/nknab/Development/rws/src/project_swarm/build",
+  "command": "/usr/bin/clang++-6.0  -DGTEST_CREATE_SHARED_LIBRARY=1 -Dgmock_main_EXPORTS -I/usr/src/googletest/googlemock/include -I/usr/src/googletest/googlemock -I/usr/src/googletest/googletest/include -I/usr/src/googletest/googletest  -g -fPIC     -DGTEST_HAS_PTHREAD=1   -o gtest/googlemock/CMakeFiles/gmock_main.dir/__/googletest/src/gtest-all.cc.o -c /usr/src/googletest/googletest/src/gtest-all.cc",
+  "file": "/usr/src/googletest/googletest/src/gtest-all.cc"
+},
+
+{
+  "directory": "/home/nknab/Development/rws/src/project_swarm/build",
+  "command": "/usr/bin/clang++-6.0  -DGTEST_CREATE_SHARED_LIBRARY=1 -Dgmock_main_EXPORTS -I/usr/src/googletest/googlemock/include -I/usr/src/googletest/googlemock -I/usr/src/googletest/googletest/include -I/usr/src/googletest/googletest  -g -fPIC     -DGTEST_HAS_PTHREAD=1   -o gtest/googlemock/CMakeFiles/gmock_main.dir/src/gmock-all.cc.o -c /usr/src/googletest/googlemock/src/gmock-all.cc",
+  "file": "/usr/src/googletest/googlemock/src/gmock-all.cc"
+},
+
+{
+  "directory": "/home/nknab/Development/rws/src/project_swarm/build",
+  "command": "/usr/bin/clang++-6.0  -DGTEST_CREATE_SHARED_LIBRARY=1 -Dgmock_main_EXPORTS -I/usr/src/googletest/googlemock/include -I/usr/src/googletest/googlemock -I/usr/src/googletest/googletest/include -I/usr/src/googletest/googletest  -g -fPIC     -DGTEST_HAS_PTHREAD=1   -o gtest/googlemock/CMakeFiles/gmock_main.dir/src/gmock_main.cc.o -c /usr/src/googletest/googlemock/src/gmock_main.cc",
+  "file": "/usr/src/googletest/googlemock/src/gmock_main.cc"
+},
+
+{
+  "directory": "/home/nknab/Development/rws/src/project_swarm/build",
+  "command": "/usr/bin/clang++-6.0  -DGTEST_CREATE_SHARED_LIBRARY=1 -Dgmock_EXPORTS -I/usr/src/googletest/googlemock/include -I/usr/src/googletest/googlemock -I/usr/src/googletest/googletest/include -I/usr/src/googletest/googletest  -g -fPIC     -DGTEST_HAS_PTHREAD=1   -o gtest/googlemock/CMakeFiles/gmock.dir/__/googletest/src/gtest-all.cc.o -c /usr/src/googletest/googletest/src/gtest-all.cc",
+  "file": "/usr/src/googletest/googletest/src/gtest-all.cc"
+},
+
+{
+  "directory": "/home/nknab/Development/rws/src/project_swarm/build",
+  "command": "/usr/bin/clang++-6.0  -DGTEST_CREATE_SHARED_LIBRARY=1 -Dgmock_EXPORTS -I/usr/src/googletest/googlemock/include -I/usr/src/googletest/googlemock -I/usr/src/googletest/googletest/include -I/usr/src/googletest/googletest  -g -fPIC     -DGTEST_HAS_PTHREAD=1   -o gtest/googlemock/CMakeFiles/gmock.dir/src/gmock-all.cc.o -c /usr/src/googletest/googlemock/src/gmock-all.cc",
+  "file": "/usr/src/googletest/googlemock/src/gmock-all.cc"
+},
+
+{
+  "directory": "/home/nknab/Development/rws/src/project_swarm/build",
+  "command": "/usr/bin/clang++-6.0  -DGTEST_CREATE_SHARED_LIBRARY=1 -Dgtest_main_EXPORTS -I/usr/src/googletest/googletest/include -I/usr/src/googletest/googletest  -g -fPIC     -DGTEST_HAS_PTHREAD=1   -o gtest/googlemock/gtest/CMakeFiles/gtest_main.dir/src/gtest_main.cc.o -c /usr/src/googletest/googletest/src/gtest_main.cc",
+  "file": "/usr/src/googletest/googletest/src/gtest_main.cc"
+},
+
+{
+  "directory": "/home/nknab/Development/rws/src/project_swarm/build",
+  "command": "/usr/bin/clang++-6.0  -DGTEST_CREATE_SHARED_LIBRARY=1 -Dgtest_EXPORTS -I/usr/src/googletest/googletest/include -I/usr/src/googletest/googletest  -g -fPIC     -DGTEST_HAS_PTHREAD=1   -o gtest/googlemock/gtest/CMakeFiles/gtest.dir/src/gtest-all.cc.o -c /usr/src/googletest/googletest/src/gtest-all.cc",
+  "file": "/usr/src/googletest/googletest/src/gtest-all.cc"
+}
+]
