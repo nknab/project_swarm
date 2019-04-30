@@ -23,3 +23,8 @@ Error Checking
 in Every single while loop 
 ros::spinOnce();
 r.sleep();
+
+telnet
+
+#Open telnet on AR-Drone -- Check For Bebop
+iwconfig ath0 mode managed essid DingDing; ifconfig ath0 192.168.1.5 netmask 255.255.255.0 up; rov
